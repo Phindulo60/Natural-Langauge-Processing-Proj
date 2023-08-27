@@ -1,6 +1,5 @@
 # Natural Language Processing Projects
 
-![Owner Avatar](<URL_TO_OWNER_AVATAR_IMAGE>)
 
 Repository maintained by [@Phindulo60](https://github.com/Phindulo60)
 
